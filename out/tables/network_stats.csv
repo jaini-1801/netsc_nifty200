@@ -1,0 +1,13 @@
+,0
+nodes,186.0
+edges,559.0
+density,0.03249055507120023
+avg_degree,6.010752688172043
+max_degree,40.0
+components,81.0
+giant_size,84.0
+diameter_giant,6.0
+avg_path_giant,2.357142857142857
+avg_clustering,0.36268980621077196
+transitivity,0.5366602687140115
+degree_assortativity,0.19799890322566302
